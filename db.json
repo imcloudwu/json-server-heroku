@@ -13,5 +13,212 @@
       "username": "zero_cool"
     }
   ],
-  "tasks": [{"applicant":"李OO","changed":false,"currentLocation":"Location 6","department":"Dept 1","endTime":"Jun 30, 2020 12:00:00 AM","froze":false,"histories":[],"id":1,"locations":["Location 6","Location 9"],"managedByVendor":false,"members":[],"name":"冷卻水塔","phoneNumber":"27731","risk":0,"site":"Site 1","startTime":"Jun 1, 2020 12:00:00 AM","state":0,"toolBox":"","tracked":false,"types":[{"category":"高架及高架地板掀開","type":"鷹架施工"},{"category":"局限","type":"管溝"},{"category":"共通","type":""}],"vendor":"常宇"},{"applicant":"李OO","changed":false,"currentLocation":"Location 2","department":"Dept 2","endTime":"Jun 30, 2020 12:00:00 AM","froze":false,"histories":[],"id":2,"locations":["Location 2","Location 9"],"managedByVendor":false,"members":[],"name":"冷卻水塔","phoneNumber":"65931","risk":0,"site":"Site 2","startTime":"Jun 1, 2020 12:00:00 AM","state":0,"toolBox":"","tracked":false,"types":[{"category":"吊掛","type":"簡易升降機"},{"category":"共通","type":""}],"vendor":"昇揚"},{"applicant":"王OO","changed":false,"currentLocation":"Location 7","department":"Dept 3","endTime":"Jun 30, 2020 12:00:00 AM","froze":false,"histories":[],"id":3,"locations":["Location 7","Location 8"],"managedByVendor":false,"members":[],"name":"冷卻水塔","phoneNumber":"76819","risk":2,"site":"Site 3","startTime":"Jun 1, 2020 12:00:00 AM","state":0,"toolBox":"","tracked":false,"types":[{"category":"危管拆卸","type":"爆炸性"},{"category":"共通","type":""}],"vendor":"常宇"},{"applicant":"王OO","changed":false,"currentLocation":"Location 4","department":"Dept 4","endTime":"Jun 30, 2020 12:00:00 AM","froze":false,"histories":[],"id":4,"locations":["Location 7","Location 4"],"managedByVendor":false,"members":[],"name":"CS拆管","phoneNumber":"15699","risk":0,"site":"Site 4","startTime":"Jun 1, 2020 12:00:00 AM","state":0,"toolBox":"","tracked":false,"types":[{"category":"活線接近","type":"ABC二次側至MCCB一次側併接"},{"category":"局限","type":"化學品槽"},{"category":"明火作業","type":"電焊"},{"category":"共通","type":""}],"vendor":"常宇"},{"applicant":"李OO","changed":false,"currentLocation":"Location 7","department":"Dept 5","endTime":"Jun 30, 2020 12:00:00 AM","froze":false,"histories":[],"id":5,"locations":["Location 2","Location 5","Location 7"],"managedByVendor":false,"members":[],"name":"CS拆管","phoneNumber":"68585","risk":1,"site":"Site 5","startTime":"Jun 1, 2020 12:00:00 AM","state":0,"toolBox":"","tracked":false,"types":[{"category":"吊掛","type":"移動式起重機"},{"category":"共通","type":""}],"vendor":"昇揚"},{"applicant":"李OO","changed":false,"currentLocation":"Location 8","department":"Dept 6","endTime":"Jun 30, 2020 12:00:00 AM","froze":false,"histories":[],"id":6,"locations":["Location 8","Location 6"],"managedByVendor":false,"members":[],"name":"冷卻水塔","phoneNumber":"14794","risk":2,"site":"Site 6","startTime":"Jun 1, 2020 12:00:00 AM","state":0,"toolBox":"","tracked":false,"types":[{"category":"活線接近","type":"Busway 400A以上plug in unit拆裝(SQ-D)"},{"category":"非明火作業","type":"熱風槍"},{"category":"活線接近","type":"接近高壓(3.3KV以上)電路或其支持物附近"},{"category":"吊掛","type":"人字臂起重機"},{"category":"共通","type":""}],"vendor":"常宇"},{"applicant":"李OO","changed":false,"currentLocation":"Location 1","department":"Dept 7","endTime":"Jun 30, 2020 12:00:00 AM","froze":false,"histories":[],"id":7,"locations":["Location 1"],"managedByVendor":false,"members":[],"name":"冷卻水塔","phoneNumber":"88962","risk":0,"site":"Site 7","startTime":"Jun 1, 2020 12:00:00 AM","state":0,"toolBox":"","tracked":false,"types":[{"category":"局限","type":"氣體槽"},{"category":"明火作業","type":"手動氬焊"},{"category":"吊掛","type":"升降機"},{"category":"共通","type":""}],"vendor":"昇揚"},{"applicant":"王OO","changed":false,"currentLocation":"Location 5","department":"Dept 8","endTime":"Jun 30, 2020 12:00:00 AM","froze":false,"histories":[],"id":8,"locations":["Location 5","Location 7"],"managedByVendor":false,"members":[],"name":"CS拆管","phoneNumber":"43230","risk":2,"site":"Site 8","startTime":"Jun 1, 2020 12:00:00 AM","state":0,"toolBox":"","tracked":false,"types":[{"category":"高架及高架地板掀開","type":"無塵室天花板(含夾層、Truss)開口作業"},{"category":"共通","type":""}],"vendor":"常宇"},{"applicant":"李OO","changed":false,"currentLocation":"Location 2","department":"Dept 9","endTime":"Jun 30, 2020 12:00:00 AM","froze":false,"histories":[],"id":9,"locations":["Location 2"],"managedByVendor":false,"members":[],"name":"冷卻水塔","phoneNumber":"10323","risk":2,"site":"Site 9","startTime":"Jun 1, 2020 12:00:00 AM","state":0,"toolBox":"","tracked":false,"types":[{"category":"活線接近","type":"高壓電壓器局部放電檢測"},{"category":"活線接近","type":"分盤MAIN NFB一/二次側活線併接"},{"category":"吊掛","type":"升降機"},{"category":"共通","type":""}],"vendor":"昇揚"},{"applicant":"李OO","changed":false,"currentLocation":"Location 4","department":"Dept 10","endTime":"Jun 30, 2020 12:00:00 AM","froze":false,"histories":[],"id":10,"locations":["Location 4"],"managedByVendor":false,"members":[],"name":"CS拆管","phoneNumber":"97245","risk":0,"site":"Site 10","startTime":"Jun 1, 2020 12:00:00 AM","state":0,"toolBox":"","tracked":false,"types":[{"category":"非明火作業","type":"熱風槍"},{"category":"高架及高架地板掀開","type":"非RC屋頂作業"},{"category":"局限","type":"樹脂槽"},{"category":"活線接近","type":"ABC二次側至MCCB一次側併接"},{"category":"共通","type":""}],"vendor":"常宇"}]
+  "task":[
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "department": "Dept 5",
+    "endTime": "Jun 30, 2020 12:00:00 AM",
+    "froze": false,
+    "histories": [],
+    "id": 5,
+    "locations": [
+      "Location 3",
+      "Location 5"
+    ],
+    "managedByVendor": false,
+    "name": "冷卻水塔",
+    "phoneNumber": "52361",
+    "risk": 0,
+    "signatures": [],
+    "site": "Site 5",
+    "startTime": "Jun 1, 2020 12:00:00 AM",
+    "state": 0,
+    "toolBox": "",
+    "tracked": false,
+    "types": [
+      {
+        "category": "非明火作業",
+        "type": "點焊(自動氬焊前管路固定)"
+      },
+      {
+        "category": "活線接近",
+        "type": "高壓盤背板拆裝"
+      },
+      {
+        "category": "共通",
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "department": "Dept 1",
+    "endTime": "Jun 30, 2020 12:00:00 AM",
+    "froze": false,
+    "histories": [],
+    "id": 1,
+    "locations": [
+      "Location 2"
+    ],
+    "managedByVendor": false,
+    "name": "冷卻水塔",
+    "phoneNumber": "40596",
+    "risk": 0,
+    "signatures": [],
+    "site": "Site 1",
+    "startTime": "Jun 1, 2020 12:00:00 AM",
+    "state": 0,
+    "toolBox": "",
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線接近",
+        "type": "DC bank battery(100V以上)拆裝"
+      },
+      {
+        "category": "局限",
+        "type": "化學品槽"
+      },
+      {
+        "category": "共通",
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "department": "Dept 4",
+    "endTime": "Jun 30, 2020 12:00:00 AM",
+    "froze": false,
+    "histories": [],
+    "id": 4,
+    "locations": [
+      "Location 2"
+    ],
+    "managedByVendor": false,
+    "name": "冷卻水塔",
+    "phoneNumber": "35160",
+    "risk": 1,
+    "signatures": [],
+    "site": "Site 4",
+    "startTime": "Jun 1, 2020 12:00:00 AM",
+    "state": 0,
+    "toolBox": "",
+    "tracked": false,
+    "types": [
+      {
+        "category": "明火作業",
+        "type": "電焊"
+      },
+      {
+        "category": "共通",
+        "type": ""
+      }
+    ],
+    "vendor": "常宇"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "department": "Dept 3",
+    "endTime": "Jun 30, 2020 12:00:00 AM",
+    "froze": false,
+    "histories": [],
+    "id": 3,
+    "locations": [
+      "Location 8",
+      "Location 9"
+    ],
+    "managedByVendor": false,
+    "name": "CS拆管",
+    "phoneNumber": "75497",
+    "risk": 1,
+    "signatures": [],
+    "site": "Site 3",
+    "startTime": "Jun 1, 2020 12:00:00 AM",
+    "state": 0,
+    "toolBox": "",
+    "tracked": false,
+    "types": [
+      {
+        "category": "危管拆卸",
+        "type": "可燃性"
+      },
+      {
+        "category": "活線接近",
+        "type": "電力電容器安裝"
+      },
+      {
+        "category": "活線接近",
+        "type": "接近高壓(3.3KV以上)電路或其支持物附近"
+      },
+      {
+        "category": "局限",
+        "type": "風管"
+      },
+      {
+        "category": "共通",
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "department": "Dept 2",
+    "endTime": "Jun 30, 2020 12:00:00 AM",
+    "froze": false,
+    "histories": [],
+    "id": 2,
+    "locations": [
+      "Location 8"
+    ],
+    "managedByVendor": false,
+    "name": "CS拆管",
+    "phoneNumber": "62922",
+    "risk": 2,
+    "signatures": [],
+    "site": "Site 2",
+    "startTime": "Jun 1, 2020 12:00:00 AM",
+    "state": 0,
+    "toolBox": "",
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛",
+        "type": "營建用提升機"
+      },
+      {
+        "category": "危管拆卸",
+        "type": "可燃性"
+      },
+      {
+        "category": "共通",
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚"
+  }
+]
 }
