@@ -16,7 +16,64 @@
   "histories":[],
   "tasks":[
   {
-    "applicant": "王OO",
+    "user_name": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "department": "Dept 1",
+    "endTime": "Jun 30, 2020 12:00:00 AM",
+    "froze": false,
+    "histories": [],
+    "id": 1,
+    "locations": [
+      "Location 2",
+      "Location 5"
+    ],
+    "managedByVendor": false,
+    "name": "冷卻水塔",
+    "ext": "20080",
+    "risk": 1,
+    "site": "Site 1",
+    "starttmst": "Jun 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線接近",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "分盤MAIN NFB一/二次側活線併接"
+      },
+      {
+        "category": "活線接近",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "分盤MAIN NFB一/二次側活線併接"
+      },
+      {
+        "category": "非明火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "點焊(自動氬焊前管路固定)"
+      },
+      {
+        "category": "活線接近",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "UPS battery(100V以上),拆裝"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚"
+  },
+  {
+    "user_name": "王OO",
     "attachImages": [],
     "changed": false,
     "currentLocations": [],
@@ -27,31 +84,24 @@
     "histories": [],
     "id": 2,
     "locations": [
-      "Location 1",
-      "Location 6"
+      "Location 5",
+      "Location 6",
+      "Location 4"
     ],
     "managedByVendor": false,
     "name": "冷卻水塔",
-    "phoneNumber": "35882",
-    "risk": 0,
-    "signatures": [],
+    "ext": "11856",
+    "risk": 1,
     "site": "Site 2",
-    "startTime": "Jun 1, 2020 12:00:00 AM",
+    "starttmst": "Jun 1, 2020 12:00:00 AM",
     "state": 0,
-    "toolBox": "",
     "tracked": false,
     "types": [
       {
-        "category": "明火作業",
+        "category": "吊掛",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "砂輪切割"
-      },
-      {
-        "category": "非明火作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "熱風槍"
+        "type": "簡易式起重機(如吊猴、小金剛)"
       },
       {
         "category": "共通",
@@ -63,148 +113,7 @@
     "vendor": "常宇"
   },
   {
-    "applicant": "王OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "department": "Dept 4",
-    "endTime": "Jun 30, 2020 12:00:00 AM",
-    "froze": false,
-    "histories": [],
-    "id": 4,
-    "locations": [
-      "Location 8",
-      "Location 9"
-    ],
-    "managedByVendor": false,
-    "name": "冷卻水塔",
-    "phoneNumber": "10553",
-    "risk": 1,
-    "signatures": [],
-    "site": "Site 4",
-    "startTime": "Jun 1, 2020 12:00:00 AM",
-    "state": 0,
-    "toolBox": "",
-    "tracked": false,
-    "types": [
-      {
-        "category": "非明火作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "自動氬焊"
-      },
-      {
-        "category": "共通",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "昇揚"
-  },
-  {
-    "applicant": "王OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "department": "Dept 1",
-    "endTime": "Jun 30, 2020 12:00:00 AM",
-    "froze": false,
-    "histories": [],
-    "id": 1,
-    "locations": [
-      "Location 4",
-      "Location 10",
-      "Location 8"
-    ],
-    "managedByVendor": false,
-    "name": "CS拆管",
-    "phoneNumber": "86013",
-    "risk": 0,
-    "signatures": [],
-    "site": "Site 1",
-    "startTime": "Jun 1, 2020 12:00:00 AM",
-    "state": 0,
-    "toolBox": "",
-    "tracked": false,
-    "types": [
-      {
-        "category": "非明火作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "熱風槍"
-      },
-      {
-        "category": "非明火作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "熱風槍"
-      },
-      {
-        "category": "吊掛",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "升降機"
-      },
-      {
-        "category": "共通",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "昇揚"
-  },
-  {
-    "applicant": "李OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "department": "Dept 5",
-    "endTime": "Jun 30, 2020 12:00:00 AM",
-    "froze": false,
-    "histories": [],
-    "id": 5,
-    "locations": [
-      "Location 1"
-    ],
-    "managedByVendor": false,
-    "name": "冷卻水塔",
-    "phoneNumber": "84968",
-    "risk": 2,
-    "signatures": [],
-    "site": "Site 5",
-    "startTime": "Jun 1, 2020 12:00:00 AM",
-    "state": 0,
-    "toolBox": "",
-    "tracked": false,
-    "types": [
-      {
-        "category": "高架及高架地板掀開",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "鷹架施工"
-      },
-      {
-        "category": "活線接近",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "DC source battery(100V以上)拆裝"
-      },
-      {
-        "category": "共通",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "昇揚"
-  },
-  {
-    "applicant": "李OO",
+    "user_name": "李OO",
     "attachImages": [],
     "changed": false,
     "currentLocations": [],
@@ -215,17 +124,95 @@
     "histories": [],
     "id": 3,
     "locations": [
-      "Location 8"
+      "Location 9",
+      "Location 8",
+      "Location 5"
     ],
     "managedByVendor": false,
-    "name": "冷卻水塔",
-    "phoneNumber": "72008",
-    "risk": 2,
-    "signatures": [],
+    "name": "CS拆管",
+    "ext": "79230",
+    "risk": 0,
     "site": "Site 3",
-    "startTime": "Jun 1, 2020 12:00:00 AM",
+    "starttmst": "Jun 1, 2020 12:00:00 AM",
     "state": 0,
-    "toolBox": "",
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "捲揚機"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚"
+  },
+  {
+    "user_name": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "department": "Dept 4",
+    "endTime": "Jun 30, 2020 12:00:00 AM",
+    "froze": false,
+    "histories": [],
+    "id": 4,
+    "locations": [
+      "Location 5"
+    ],
+    "managedByVendor": false,
+    "name": "CS拆管",
+    "ext": "96058",
+    "risk": 2,
+    "site": "Site 4",
+    "starttmst": "Jun 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架及高架地板掀開",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "高空工作車"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇"
+  },
+  {
+    "user_name": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "department": "Dept 5",
+    "endTime": "Jun 30, 2020 12:00:00 AM",
+    "froze": false,
+    "histories": [],
+    "id": 5,
+    "locations": [
+      "Location 10",
+      "Location 7",
+      "Location 1"
+    ],
+    "managedByVendor": false,
+    "name": "CS拆管",
+    "ext": "33647",
+    "risk": 0,
+    "site": "Site 5",
+    "starttmst": "Jun 1, 2020 12:00:00 AM",
+    "state": 0,
     "tracked": false,
     "types": [
       {
@@ -235,10 +222,10 @@
         "type": "吊籠"
       },
       {
-        "category": "機房CO2滅火系統檢修",
+        "category": "局限",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "機房CO2滅火系統檢修"
+        "type": "活性碳槽"
       },
       {
         "category": "吊掛",
@@ -247,10 +234,10 @@
         "type": "簡易式起重機(如吊猴、小金剛)"
       },
       {
-        "category": "明火作業",
+        "category": "局限",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "噴燈"
+        "type": "風管"
       },
       {
         "category": "共通",
