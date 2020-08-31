@@ -16,40 +16,46 @@
   "histories":[],
   "tasks":[
   {
-    "applicant": "李OO",
+    "applicant": "王OO",
     "attachImages": [],
     "changed": false,
     "currentLocations": [],
     "currentTypes": [],
-    "department": "Dept 1",
-    "endTime": "Jun 30, 2020 12:00:00 AM",
+    "date": "Aug 31, 2020 3:37:05 PM",
+    "department": "Dept 2",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
     "frozen": false,
     "histories": [],
-    "id": "1",
+    "id": "2",
     "locations": [
-      "Location 1"
+      "Location 10"
     ],
-    "managedByVendor": false,
     "name": "CS拆管",
-    "phoneNumber": "33233",
+    "phoneNumber": "80951",
     "resume": 0,
-    "risk": 1,
-    "site": "Site 1",
-    "startTime": "Jun 1, 2020 12:00:00 AM",
+    "risk": 0,
+    "site": "Site 2",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
     "state": 0,
     "tracked": false,
     "types": [
       {
-        "category": "高架及高架地板掀開",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "開人孔蓋"
-      },
-      {
-        "category": "高架及高架地板掀開",
+        "category": "局限",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "鷹架施工"
+        "type": "化學品槽"
+      },
+      {
+        "category": "局限",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "活性碳槽"
+      },
+      {
+        "category": "危管拆卸",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "爆炸性"
       },
       {
         "category": "共通",
@@ -58,7 +64,8 @@
         "type": ""
       }
     ],
-    "vendor": "昇揚"
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
   },
   {
     "applicant": "李OO",
@@ -66,37 +73,37 @@
     "changed": false,
     "currentLocations": [],
     "currentTypes": [],
-    "department": "Dept 5",
-    "endTime": "Jun 30, 2020 12:00:00 AM",
+    "date": "Aug 31, 2020 3:37:05 PM",
+    "department": "Dept 3",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
     "frozen": false,
     "histories": [],
-    "id": "5",
+    "id": "3",
     "locations": [
-      "Location 7",
-      "Location 10",
-      "Location 6"
+      "Location 1",
+      "Location 5",
+      "Location 2"
     ],
-    "managedByVendor": false,
     "name": "冷卻水塔",
-    "phoneNumber": "83414",
+    "phoneNumber": "54797",
     "resume": 0,
-    "risk": 0,
-    "site": "Site 5",
-    "startTime": "Jun 1, 2020 12:00:00 AM",
+    "risk": 2,
+    "site": "Site 3",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
     "state": 0,
     "tracked": false,
     "types": [
       {
-        "category": "局限",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "筏基"
-      },
-      {
         "category": "吊掛",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "升降機"
+        "type": "捲揚機"
+      },
+      {
+        "category": "局限",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "水槽"
       },
       {
         "category": "局限",
@@ -111,110 +118,8 @@
         "type": ""
       }
     ],
-    "vendor": "昇揚"
-  },
-  {
-    "applicant": "王OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "department": "Dept 2",
-    "endTime": "Jun 30, 2020 12:00:00 AM",
-    "frozen": false,
-    "histories": [],
-    "id": "2",
-    "locations": [
-      "Location 1"
-    ],
-    "managedByVendor": false,
-    "name": "CS拆管",
-    "phoneNumber": "32079",
-    "resume": 0,
-    "risk": 1,
-    "site": "Site 2",
-    "startTime": "Jun 1, 2020 12:00:00 AM",
-    "state": 0,
-    "tracked": false,
-    "types": [
-      {
-        "category": "吊掛",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "固定式起重機"
-      },
-      {
-        "category": "高架及高架地板掀開",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "位於2公尺以上無固定平台及護欄之處所"
-      },
-      {
-        "category": "共通",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "昇揚"
-  },
-  {
-    "applicant": "王OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "department": "Dept 3",
-    "endTime": "Jun 30, 2020 12:00:00 AM",
-    "frozen": false,
-    "histories": [],
-    "id": "3",
-    "locations": [
-      "Location 2",
-      "Location 4"
-    ],
-    "managedByVendor": false,
-    "name": "CS拆管",
-    "phoneNumber": "69812",
-    "resume": 0,
-    "risk": 1,
-    "site": "Site 3",
-    "startTime": "Jun 1, 2020 12:00:00 AM",
-    "state": 0,
-    "tracked": false,
-    "types": [
-      {
-        "category": "局限",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "樹脂槽"
-      },
-      {
-        "category": "非明火作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "塑膠熔焊"
-      },
-      {
-        "category": "吊掛",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "營建用提升機"
-      },
-      {
-        "category": "局限",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "油槽"
-      },
-      {
-        "category": "共通",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "昇揚"
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
   },
   {
     "applicant": "李OO",
@@ -222,23 +127,68 @@
     "changed": false,
     "currentLocations": [],
     "currentTypes": [],
+    "date": "Aug 31, 2020 3:37:05 PM",
+    "department": "Dept 1",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "frozen": false,
+    "histories": [],
+    "id": "1",
+    "locations": [
+      "Location 2"
+    ],
+    "name": "冷卻水塔",
+    "phoneNumber": "44691",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 1",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線接近",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "高壓盤背板拆裝"
+      },
+      {
+        "category": "高架及高架地板掀開",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "地面人孔蓋掀開"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Aug 31, 2020 3:37:05 PM",
     "department": "Dept 4",
-    "endTime": "Jun 30, 2020 12:00:00 AM",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
     "frozen": false,
     "histories": [],
     "id": "4",
     "locations": [
-      "Location 7",
-      "Location 9",
-      "Location 4"
+      "Location 6",
+      "Location 5"
     ],
-    "managedByVendor": false,
     "name": "CS拆管",
-    "phoneNumber": "37309",
+    "phoneNumber": "55722",
     "resume": 0,
-    "risk": 1,
+    "risk": 0,
     "site": "Site 4",
-    "startTime": "Jun 1, 2020 12:00:00 AM",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
     "state": 0,
     "tracked": false,
     "types": [
@@ -246,7 +196,19 @@
         "category": "吊掛",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "簡易升降機"
+        "type": "捲揚機"
+      },
+      {
+        "category": "高架及高架地板掀開",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "鷹架施工"
+      },
+      {
+        "category": "非明火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "自動氬焊"
       },
       {
         "category": "活線接近",
@@ -261,7 +223,49 @@
         "type": ""
       }
     ],
-    "vendor": "常宇"
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Aug 31, 2020 3:37:05 PM",
+    "department": "Dept 5",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "frozen": false,
+    "histories": [],
+    "id": "5",
+    "locations": [
+      "Location 1",
+      "Location 10"
+    ],
+    "name": "冷卻水塔",
+    "phoneNumber": "18631",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 5",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "油槽"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
   }
 ]
 }
