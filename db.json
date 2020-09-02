@@ -16,146 +16,48 @@
   "histories":[],
   "tasks":[
   {
-    "applicant": "王OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "date": "Aug 31, 2020 3:37:05 PM",
-    "department": "Dept 2",
-    "endTime": "Oct 31, 2020 12:00:00 AM",
-    "frozen": false,
-    "histories": [],
-    "id": "2",
-    "locations": [
-      "Location 10"
-    ],
-    "name": "CS拆管",
-    "phoneNumber": "80951",
-    "resume": 0,
-    "risk": 0,
-    "site": "Site 2",
-    "startTime": "Aug 1, 2020 12:00:00 AM",
-    "state": 0,
-    "tracked": false,
-    "types": [
-      {
-        "category": "局限",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "化學品槽"
-      },
-      {
-        "category": "局限",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "活性碳槽"
-      },
-      {
-        "category": "危管拆卸",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "爆炸性"
-      },
-      {
-        "category": "共通",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "常宇",
-    "vendorManager": "James Bon"
-  },
-  {
     "applicant": "李OO",
     "attachImages": [],
     "changed": false,
     "currentLocations": [],
     "currentTypes": [],
-    "date": "Aug 31, 2020 3:37:05 PM",
+    "date": "Sep 2, 2020 3:56:39 PM",
     "department": "Dept 3",
     "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
     "frozen": false,
     "histories": [],
     "id": "3",
     "locations": [
-      "Location 1",
-      "Location 5",
-      "Location 2"
+      "Location 7",
+      "Location 6"
     ],
-    "name": "冷卻水塔",
-    "phoneNumber": "54797",
+    "name": "CS拆管",
+    "phoneNumber": "69178",
     "resume": 0,
-    "risk": 2,
+    "risk": 0,
     "site": "Site 3",
     "startTime": "Aug 1, 2020 12:00:00 AM",
     "state": 0,
     "tracked": false,
     "types": [
       {
-        "category": "吊掛",
+        "category": "吊掛作業",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "捲揚機"
+        "type": "簡易式起重機(如吊猴、小金剛)"
       },
       {
-        "category": "局限",
+        "category": "局限空間作業",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "水槽"
+        "type": "氣體槽"
       },
       {
-        "category": "局限",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "管溝"
-      },
-      {
-        "category": "共通",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "常宇",
-    "vendorManager": "James Bon"
-  },
-  {
-    "applicant": "李OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "date": "Aug 31, 2020 3:37:05 PM",
-    "department": "Dept 1",
-    "endTime": "Oct 31, 2020 12:00:00 AM",
-    "frozen": false,
-    "histories": [],
-    "id": "1",
-    "locations": [
-      "Location 2"
-    ],
-    "name": "冷卻水塔",
-    "phoneNumber": "44691",
-    "resume": 0,
-    "risk": 1,
-    "site": "Site 1",
-    "startTime": "Aug 1, 2020 12:00:00 AM",
-    "state": 0,
-    "tracked": false,
-    "types": [
-      {
-        "category": "活線接近",
+        "category": "高架及高架地板掀開作業",
         "isEssential": false,
         "isHighRisk": true,
-        "type": "高壓盤背板拆裝"
-      },
-      {
-        "category": "高架及高架地板掀開",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "地面人孔蓋掀開"
+        "type": "高空工作車"
       },
       {
         "category": "共通",
@@ -173,48 +75,221 @@
     "changed": false,
     "currentLocations": [],
     "currentTypes": [],
-    "date": "Aug 31, 2020 3:37:05 PM",
+    "date": "Sep 2, 2020 3:56:39 PM",
+    "department": "Dept 9",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "9",
+    "locations": [
+      "Location 9",
+      "Location 7"
+    ],
+    "name": "CS拆管",
+    "phoneNumber": "56221",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 9",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "非明火動火作業(1週)",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "點焊(自動氬焊前管路固定)"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "爆炸性"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Sep 2, 2020 3:56:39 PM",
+    "department": "Dept 8",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "8",
+    "locations": [
+      "Location 4",
+      "Location 3"
+    ],
+    "name": "CS拆管",
+    "phoneNumber": "46471",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 8",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "非明火動火作業(1週)",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "自動氬焊"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "吊籠"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "高壓電壓器局部放電檢測"
+      },
+      {
+        "category": "機房CO2滅火系統檢修",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "機房CO2滅火系統檢修"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Sep 2, 2020 3:56:39 PM",
+    "department": "Dept 2",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "2",
+    "locations": [
+      "Location 9"
+    ],
+    "name": "CS拆管",
+    "phoneNumber": "71890",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 2",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "人字臂起重機"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Sep 2, 2020 3:56:38 PM",
+    "department": "Dept 1",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "1",
+    "locations": [
+      "Location 9"
+    ],
+    "name": "冷卻水塔",
+    "phoneNumber": "21047",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 1",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "機房CO2滅火系統檢修",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "機房CO2滅火系統檢修"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Sep 2, 2020 3:56:39 PM",
     "department": "Dept 4",
     "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
     "frozen": false,
     "histories": [],
     "id": "4",
     "locations": [
-      "Location 6",
-      "Location 5"
+      "Location 10",
+      "Location 2"
     ],
     "name": "CS拆管",
-    "phoneNumber": "55722",
+    "phoneNumber": "93928",
     "resume": 0,
-    "risk": 0,
+    "risk": 1,
     "site": "Site 4",
     "startTime": "Aug 1, 2020 12:00:00 AM",
     "state": 0,
     "tracked": false,
     "types": [
       {
-        "category": "吊掛",
+        "category": "活線、活線接近作業",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "捲揚機"
-      },
-      {
-        "category": "高架及高架地板掀開",
-        "isEssential": true,
-        "isHighRisk": true,
-        "type": "鷹架施工"
-      },
-      {
-        "category": "非明火作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "自動氬焊"
-      },
-      {
-        "category": "活線接近",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "高壓盤背板拆裝"
+        "type": "接近高壓(3.3KV以上)電路或其支持物附近"
       },
       {
         "category": "共通",
@@ -232,18 +307,18 @@
     "changed": false,
     "currentLocations": [],
     "currentTypes": [],
-    "date": "Aug 31, 2020 3:37:05 PM",
+    "date": "Sep 2, 2020 3:56:39 PM",
     "department": "Dept 5",
     "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
     "frozen": false,
     "histories": [],
     "id": "5",
     "locations": [
-      "Location 1",
-      "Location 10"
+      "Location 8"
     ],
-    "name": "冷卻水塔",
-    "phoneNumber": "18631",
+    "name": "CS拆管",
+    "phoneNumber": "29714",
     "resume": 0,
     "risk": 0,
     "site": "Site 5",
@@ -252,10 +327,190 @@
     "tracked": false,
     "types": [
       {
-        "category": "局限",
+        "category": "局限空間作業",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "油槽"
+        "type": "氣體槽"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "樹脂槽"
+      },
+      {
+        "category": "非明火動火作業(1週)",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "自動氬焊"
+      },
+      {
+        "category": "非明火動火作業(1週)",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "點焊(自動氬焊前管路固定)"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Sep 2, 2020 3:56:39 PM",
+    "department": "Dept 6",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "6",
+    "locations": [
+      "Location 8",
+      "Location 5"
+    ],
+    "name": "CS拆管",
+    "phoneNumber": "58348",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 6",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架及高架地板掀開作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "位於2公尺以上無固定平台及護欄之處所"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "DC bank battery(100V以上)拆裝"
+      },
+      {
+        "category": "機房CO2滅火系統檢修",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "機房CO2滅火系統檢修"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Sep 2, 2020 3:56:39 PM",
+    "department": "Dept 7",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "7",
+    "locations": [
+      "Location 2",
+      "Location 4"
+    ],
+    "name": "冷卻水塔",
+    "phoneNumber": "16916",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 7",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "化學品槽"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "可燃性"
+      },
+      {
+        "category": "共通",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Sep 2, 2020 3:56:39 PM",
+    "department": "Dept 10",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "10",
+    "locations": [
+      "Location 9",
+      "Location 2"
+    ],
+    "name": "CS拆管",
+    "phoneNumber": "59180",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 10",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "接近高壓(3.3KV以上)電路或其支持物附近"
+      },
+      {
+        "category": "明火動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "乙炔切焊"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "水槽"
+      },
+      {
+        "category": "機房CO2滅火系統檢修",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "機房CO2滅火系統檢修"
       },
       {
         "category": "共通",
