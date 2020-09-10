@@ -16,6 +16,7 @@
   "histories":[],
   "tasks":[
   {
+  	"user_id": "1111",
     "applicant": "李OO",
     "attachImages": [],
     "changed": false,
@@ -70,6 +71,7 @@
     "vendorManager": "James Bon"
   },
   {
+  	"user_id": "1111",
     "applicant": "王OO",
     "attachImages": [],
     "changed": false,
@@ -118,6 +120,7 @@
     "vendorManager": "James Bon"
   },
   {
+  	"user_id": "1111",
     "applicant": "王OO",
     "attachImages": [],
     "changed": false,
@@ -178,6 +181,7 @@
     "vendorManager": "James Bon"
   },
   {
+  	"user_id": "1111",
     "applicant": "王OO",
     "attachImages": [],
     "changed": false,
@@ -219,6 +223,7 @@
     "vendorManager": "James Bon"
   },
   {
+  	"user_id": "1111",
     "applicant": "李OO",
     "attachImages": [],
     "changed": false,
@@ -260,6 +265,7 @@
     "vendorManager": "James Bon"
   },
   {
+  	"user_id": "1111",
     "applicant": "王OO",
     "attachImages": [],
     "changed": false,
@@ -302,6 +308,7 @@
     "vendorManager": "James Bon"
   },
   {
+  	"user_id": "1111",
     "applicant": "李OO",
     "attachImages": [],
     "changed": false,
@@ -361,6 +368,7 @@
     "vendorManager": "James Bon"
   },
   {
+  	"user_id": "1111",
     "applicant": "王OO",
     "attachImages": [],
     "changed": false,
@@ -415,6 +423,7 @@
     "vendorManager": "James Bon"
   },
   {
+  	"user_id": "1111",
     "applicant": "李OO",
     "attachImages": [],
     "changed": false,
@@ -463,6 +472,7 @@
     "vendorManager": "James Bon"
   },
   {
+  	"user_id": "1111",
     "applicant": "王OO",
     "attachImages": [],
     "changed": false,
