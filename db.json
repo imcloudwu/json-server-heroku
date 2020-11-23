@@ -13,6 +13,24 @@
       "username": "zero_cool"
     }
   ],
+  "users":[
+  {
+  "id": "11111111",
+  "role": "user"
+  },
+  {
+  "id": "22222222",
+  "role": "esh"
+  },
+  {
+  "id": "33333333",
+  "role": "it"
+  },
+  {
+  "id": "99999999",
+  "role": "guest"
+  }
+],
   "histories":[],
   "tasks":[
   {
