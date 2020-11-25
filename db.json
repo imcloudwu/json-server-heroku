@@ -39,190 +39,96 @@
     "changed": false,
     "currentLocations": [],
     "currentTypes": [],
-    "date": "Nov 5, 2020 7:50:08 PM",
-    "department": "Dept 1",
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 6",
     "endTime": "Oct 31, 2020 12:00:00 AM",
     "fireDetected": false,
     "frozen": false,
     "histories": [],
-    "id": "1",
+    "id": "6",
     "issues": 0,
     "locations": [
-      "Location 4",
-      "Location 10"
+      "Location 9",
+      "Location 4"
     ],
     "machineMoving": false,
-    "name": "冷卻水塔",
-    "phoneNumber": "76866",
+    "name": "施工單 6",
+    "phoneNumber": "86770",
     "resume": 0,
-    "risk": 2,
-    "site": "Site 1",
+    "risk": 1,
+    "site": "Site 6",
     "startTime": "Aug 1, 2020 12:00:00 AM",
     "state": 0,
     "tracked": false,
     "types": [
       {
-        "category": "局限空間作業",
+        "category": "明火/防爆區動火作業",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "活性碳槽"
+        "type": "手動氬焊"
       },
       {
-        "category": "一般作業",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "昇揚",
-    "vendorManager": "James Bon"
-  },
-  {
-    "applicant": "李OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "date": "Nov 5, 2020 7:50:09 PM",
-    "department": "Dept 8",
-    "endTime": "Oct 31, 2020 12:00:00 AM",
-    "fireDetected": false,
-    "frozen": false,
-    "histories": [],
-    "id": "8",
-    "issues": 0,
-    "locations": [
-      "Location 5",
-      "Location 8"
-    ],
-    "machineMoving": false,
-    "name": "CS拆管",
-    "phoneNumber": "38127",
-    "resume": 0,
-    "risk": 2,
-    "site": "Site 8",
-    "startTime": "Aug 1, 2020 12:00:00 AM",
-    "state": 0,
-    "tracked": false,
-    "types": [
-      {
-        "category": "活線、活線接近作業",
-        "isEssential": false,
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
         "isHighRisk": true,
-        "type": "高壓電壓器局部放電檢測"
-      },
-      {
-        "category": "高溫作業",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": "高溫作業"
-      },
-      {
-        "category": "一般作業",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "昇揚",
-    "vendorManager": "James Bon"
-  },
-  {
-    "applicant": "王OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "date": "Nov 5, 2020 7:50:09 PM",
-    "department": "Dept 2",
-    "endTime": "Oct 31, 2020 12:00:00 AM",
-    "fireDetected": false,
-    "frozen": false,
-    "histories": [],
-    "id": "2",
-    "issues": 0,
-    "locations": [
-      "Location 2",
-      "Location 9",
-      "Location 5"
-    ],
-    "machineMoving": false,
-    "name": "冷卻水塔",
-    "phoneNumber": "91359",
-    "resume": 0,
-    "risk": 0,
-    "site": "Site 2",
-    "startTime": "Aug 1, 2020 12:00:00 AM",
-    "state": 0,
-    "tracked": false,
-    "types": [
-      {
-        "category": "活線、活線接近作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "接近600V以下低壓電路或其支持物附近且有觸電可能"
-      },
-      {
-        "category": "一般作業",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "昇揚",
-    "vendorManager": "James Bon"
-  },
-  {
-    "applicant": "李OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "date": "Nov 5, 2020 7:50:09 PM",
-    "department": "Dept 5",
-    "endTime": "Oct 31, 2020 12:00:00 AM",
-    "fireDetected": false,
-    "frozen": false,
-    "histories": [],
-    "id": "5",
-    "issues": 0,
-    "locations": [
-      "Location 4",
-      "Location 10"
-    ],
-    "machineMoving": false,
-    "name": "CS拆管",
-    "phoneNumber": "43714",
-    "resume": 0,
-    "risk": 2,
-    "site": "Site 5",
-    "startTime": "Aug 1, 2020 12:00:00 AM",
-    "state": 0,
-    "tracked": false,
-    "types": [
-      {
-        "category": "活線、活線接近作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "高壓電壓器局部放電檢測"
+        "type": "腐蝕性"
       },
       {
         "category": "明火/防爆區動火作業",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "瓦斯焊槍"
+        "type": "乙炔切焊"
       },
       {
-        "category": "高度風險活線、活線接近作業",
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 7",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "7",
+    "issues": 0,
+    "locations": [
+      "Location 2",
+      "Location 1",
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 7",
+    "phoneNumber": "91013",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 7",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
         "isEssential": true,
         "isHighRisk": true,
-        "type": "ABC二次側至MCCB一次側併接"
+        "type": "簡易式起重機(如吊猴、小金剛)"
       },
       {
-        "category": "高架作業",
-        "isEssential": false,
+        "category": "局限空間作業",
+        "isEssential": true,
         "isHighRisk": true,
-        "type": "位於5公尺以上有固定平台及護欄之處所"
+        "type": "油槽"
       },
       {
         "category": "一般作業",
@@ -240,24 +146,24 @@
     "changed": false,
     "currentLocations": [],
     "currentTypes": [],
-    "date": "Nov 5, 2020 7:50:09 PM",
-    "department": "Dept 7",
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 15",
     "endTime": "Oct 31, 2020 12:00:00 AM",
     "fireDetected": false,
     "frozen": false,
     "histories": [],
-    "id": "7",
+    "id": "15",
     "issues": 0,
     "locations": [
-      "Location 6",
-      "Location 7"
+      "Location 10",
+      "Location 4"
     ],
     "machineMoving": false,
-    "name": "CS拆管",
-    "phoneNumber": "35549",
+    "name": "施工單 15",
+    "phoneNumber": "46520",
     "resume": 0,
-    "risk": 1,
-    "site": "Site 7",
+    "risk": 2,
+    "site": "Site 15",
     "startTime": "Aug 1, 2020 12:00:00 AM",
     "state": 0,
     "tracked": false,
@@ -275,6 +181,99 @@
         "type": ""
       }
     ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 31",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "31",
+    "issues": 0,
+    "locations": [
+      "Location 6",
+      "Location 10"
+    ],
+    "machineMoving": false,
+    "name": "施工單 31",
+    "phoneNumber": "93470",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 31",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "開人孔蓋"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "腐蝕性"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 28",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "28",
+    "issues": 0,
+    "locations": [
+      "Location 9"
+    ],
+    "machineMoving": false,
+    "name": "施工單 28",
+    "phoneNumber": "29691",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 28",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "手動氬焊"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
     "vendor": "昇揚",
     "vendorManager": "James Bon"
   },
@@ -284,7 +283,113 @@
     "changed": false,
     "currentLocations": [],
     "currentTypes": [],
-    "date": "Nov 5, 2020 7:50:09 PM",
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 64",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "64",
+    "issues": 0,
+    "locations": [
+      "Location 3",
+      "Location 7"
+    ],
+    "machineMoving": false,
+    "name": "施工單 64",
+    "phoneNumber": "72765",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 64",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "位於2公尺以上無固定平台及護欄之處所"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 65",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "65",
+    "issues": 0,
+    "locations": [
+      "Location 3",
+      "Location 4"
+    ],
+    "machineMoving": false,
+    "name": "施工單 65",
+    "phoneNumber": "59067",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 65",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "移動式起重機"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "DC source battery(100V以上)拆裝"
+      },
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "點焊(自動氬焊前管路固定),"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "毒性"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
     "department": "Dept 4",
     "endTime": "Oct 31, 2020 12:00:00 AM",
     "fireDetected": false,
@@ -293,14 +398,543 @@
     "id": "4",
     "issues": 0,
     "locations": [
+      "Location 7",
       "Location 9"
     ],
     "machineMoving": false,
-    "name": "CS拆管",
-    "phoneNumber": "92018",
+    "name": "施工單 4",
+    "phoneNumber": "50375",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 4",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "IR檢測"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "管溝"
+      },
+      {
+        "category": "高架地板掀開暨開口作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "高架地板掀開"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 17",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "17",
+    "issues": 0,
+    "locations": [
+      "Location 6",
+      "Location 8",
+      "Location 4"
+    ],
+    "machineMoving": false,
+    "name": "施工單 17",
+    "phoneNumber": "25835",
     "resume": 0,
     "risk": 2,
-    "site": "Site 4",
+    "site": "Site 17",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "自動氬焊"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "UPS battery(100V以上)拆裝"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "DC source battery(100V以上)拆裝"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "砂輪切割"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 8",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "8",
+    "issues": 0,
+    "locations": [
+      "Location 10"
+    ],
+    "machineMoving": false,
+    "name": "施工單 8",
+    "phoneNumber": "78913",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 8",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "管路冷凍工法作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "管路若採用低溫惰性物質(如LN2)"
+      },
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "熱風槍"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "DC bank battery(100V以上)拆裝"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "手動氬焊"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 66",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "66",
+    "issues": 0,
+    "locations": [
+      "Location 7"
+    ],
+    "machineMoving": false,
+    "name": "施工單 66",
+    "phoneNumber": "36452",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 66",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "捲揚機"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "捲揚機"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "分盤MAIN NFB一/二次側活線併接"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 9",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "9",
+    "issues": 0,
+    "locations": [
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 9",
+    "phoneNumber": "42424",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 9",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "升降機"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 1",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "1",
+    "issues": 0,
+    "locations": [
+      "Location 9",
+      "Location 8"
+    ],
+    "machineMoving": false,
+    "name": "施工單 1",
+    "phoneNumber": "13355",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 1",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "UPS battery(100V以上)拆裝"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "電力電容器安裝"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "人字臂起重機"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 67",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "67",
+    "issues": 0,
+    "locations": [
+      "Location 4"
+    ],
+    "machineMoving": false,
+    "name": "施工單 67",
+    "phoneNumber": "42140",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 67",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "電力電容器安裝"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 2",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "2",
+    "issues": 0,
+    "locations": [
+      "Location 6",
+      "Location 10"
+    ],
+    "machineMoving": false,
+    "name": "施工單 2",
+    "phoneNumber": "22476",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 2",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "油槽"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "瓦斯焊槍"
+      },
+      {
+        "category": "管路冷凍工法作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "管路若採用低溫惰性物質(如LN2)"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 68",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "68",
+    "issues": 0,
+    "locations": [
+      "Location 4",
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 68",
+    "phoneNumber": "15709",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 68",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "DC bank battery(100V以上)拆裝"
+      },
+      {
+        "category": "無塵室天花板(含夾層、Truss),開口作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "無塵室天花板(含夾層、Truss),開口作業"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 24",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "24",
+    "issues": 0,
+    "locations": [
+      "Location 3",
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 24",
+    "phoneNumber": "58864",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 24",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "接近高壓(3.3KV以上)電路或其支持物附近"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 69",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "69",
+    "issues": 0,
+    "locations": [
+      "Location 3",
+      "Location 10",
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 69",
+    "phoneNumber": "34740",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 69",
     "startTime": "Aug 1, 2020 12:00:00 AM",
     "state": 0,
     "tracked": false,
@@ -327,130 +961,95 @@
     "changed": false,
     "currentLocations": [],
     "currentTypes": [],
-    "date": "Nov 5, 2020 7:50:09 PM",
-    "department": "Dept 3",
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 74",
     "endTime": "Oct 31, 2020 12:00:00 AM",
     "fireDetected": false,
     "frozen": false,
     "histories": [],
-    "id": "3",
+    "id": "74",
     "issues": 0,
     "locations": [
-      "Location 2"
-    ],
-    "machineMoving": false,
-    "name": "CS拆管",
-    "phoneNumber": "10218",
-    "resume": 0,
-    "risk": 1,
-    "site": "Site 3",
-    "startTime": "Aug 1, 2020 12:00:00 AM",
-    "state": 0,
-    "tracked": false,
-    "types": [
-      {
-        "category": "活線、活線接近作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "Busway 400A以上plug in unit拆裝(SQ-D)"
-      },
-      {
-        "category": "活線、活線接近作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "Busway 400A以上plug in unit拆裝(SQ-D)"
-      },
-      {
-        "category": "一般作業",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "昇揚",
-    "vendorManager": "James Bon"
-  },
-  {
-    "applicant": "王OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "date": "Nov 5, 2020 7:50:09 PM",
-    "department": "Dept 10",
-    "endTime": "Oct 31, 2020 12:00:00 AM",
-    "fireDetected": false,
-    "frozen": false,
-    "histories": [],
-    "id": "10",
-    "issues": 0,
-    "locations": [
-      "Location 7"
-    ],
-    "machineMoving": false,
-    "name": "CS拆管",
-    "phoneNumber": "73337",
-    "resume": 0,
-    "risk": 1,
-    "site": "Site 10",
-    "startTime": "Aug 1, 2020 12:00:00 AM",
-    "state": 0,
-    "tracked": false,
-    "types": [
-      {
-        "category": "活線、活線接近作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "Busway 400A以上plug in unit拆裝(SQ-D)"
-      },
-      {
-        "category": "高空工作車",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "高空工作車"
-      },
-      {
-        "category": "一般作業",
-        "isEssential": false,
-        "isHighRisk": false,
-        "type": ""
-      }
-    ],
-    "vendor": "昇揚",
-    "vendorManager": "James Bon"
-  },
-  {
-    "applicant": "王OO",
-    "attachImages": [],
-    "changed": false,
-    "currentLocations": [],
-    "currentTypes": [],
-    "date": "Nov 5, 2020 7:50:09 PM",
-    "department": "Dept 6",
-    "endTime": "Oct 31, 2020 12:00:00 AM",
-    "fireDetected": false,
-    "frozen": false,
-    "histories": [],
-    "id": "6",
-    "issues": 0,
-    "locations": [
+      "Location 8",
       "Location 1"
     ],
     "machineMoving": false,
-    "name": "CS拆管",
-    "phoneNumber": "93057",
+    "name": "施工單 74",
+    "phoneNumber": "44123",
     "resume": 0,
-    "risk": 1,
-    "site": "Site 6",
+    "risk": 2,
+    "site": "Site 74",
     "startTime": "Aug 1, 2020 12:00:00 AM",
     "state": 0,
     "tracked": false,
     "types": [
       {
-        "category": "非明火動火作業",
+        "category": "高架作業",
         "isEssential": false,
         "isHighRisk": true,
-        "type": "塑膠熔焊"
+        "type": "開人孔蓋"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 72",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "72",
+    "issues": 0,
+    "locations": [
+      "Location 2",
+      "Location 3"
+    ],
+    "machineMoving": false,
+    "name": "施工單 72",
+    "phoneNumber": "41110",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 72",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "活性碳槽"
+      },
+      {
+        "category": "五公尺以上施工架組裝及拆卸",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "五公尺以上施工架組裝及拆卸"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "可燃性"
+      },
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "ABC二次側至MCCB一次側併接"
       },
       {
         "category": "一般作業",
@@ -468,23 +1067,1478 @@
     "changed": false,
     "currentLocations": [],
     "currentTypes": [],
-    "date": "Nov 5, 2020 7:50:09 PM",
-    "department": "Dept 9",
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 70",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "70",
+    "issues": 0,
+    "locations": [
+      "Location 3",
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 70",
+    "phoneNumber": "48044",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 70",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "熱風槍"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "噴燈"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 73",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "73",
+    "issues": 0,
+    "locations": [
+      "Location 6",
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 73",
+    "phoneNumber": "57311",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 73",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "接近高壓(3.3KV以上)電路或其支持物附近"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 71",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "71",
+    "issues": 0,
+    "locations": [
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 71",
+    "phoneNumber": "43229",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 71",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "外牆清洗"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "毒性"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 75",
     "endTime": "Oct 31, 2020 12:00:00 AM",
     "fireDetected": true,
     "frozen": false,
     "histories": [],
-    "id": "9",
+    "id": "75",
     "issues": 0,
     "locations": [
+      "Location 9"
+    ],
+    "machineMoving": false,
+    "name": "施工單 75",
+    "phoneNumber": "14805",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 75",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "油槽"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "爆炸性"
+      },
+      {
+        "category": "無塵室天花板(含夾層、Truss),開口作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "無塵室天花板(含夾層、Truss),開口作業"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 11",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "11",
+    "issues": 0,
+    "locations": [
+      "Location 5",
+      "Location 4",
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 11",
+    "phoneNumber": "23795",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 11",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "IR檢測"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 16",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "16",
+    "issues": 0,
+    "locations": [
+      "Location 5",
+      "Location 7",
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 16",
+    "phoneNumber": "34868",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 16",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高溫作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": "高溫作業"
+      },
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "點焊(自動氬焊前管路固定),"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 5",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "5",
+    "issues": 0,
+    "locations": [
+      "Location 5",
+      "Location 10"
+    ],
+    "machineMoving": false,
+    "name": "施工單 5",
+    "phoneNumber": "88545",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 5",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "接近600V以下低壓電路或其支持物附近且有觸電可能"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "簡易式起重機(如吊猴、小金剛)"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "風管"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "腐蝕性"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 3",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "3",
+    "issues": 0,
+    "locations": [
+      "Location 6",
+      "Location 8"
+    ],
+    "machineMoving": false,
+    "name": "施工單 3",
+    "phoneNumber": "54180",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 3",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "接近高壓(3.3KV以上)電路或其支持物附近"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 27",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "27",
+    "issues": 0,
+    "locations": [
+      "Location 5",
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 27",
+    "phoneNumber": "35621",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 27",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "開人孔蓋"
+      },
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "自動氬焊"
+      },
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "位於2公尺以上無固定平台及護欄之處所"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "爆炸性"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 34",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "34",
+    "issues": 0,
+    "locations": [
+      "Location 4",
+      "Location 1",
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 34",
+    "phoneNumber": "10491",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 34",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "分盤MAIN NFB一/二次側活線併接"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "電力電容器安裝"
+      },
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "點焊(自動氬焊前管路固定),"
+      },
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "點焊(自動氬焊前管路固定),"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 36",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "36",
+    "issues": 0,
+    "locations": [
+      "Location 2",
       "Location 1"
     ],
     "machineMoving": false,
-    "name": "CS拆管",
-    "phoneNumber": "88005",
+    "name": "施工單 36",
+    "phoneNumber": "99109",
     "resume": 0,
     "risk": 1,
-    "site": "Site 9",
+    "site": "Site 36",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "簡易式起重機(如吊猴、小金剛)"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "捲揚機"
+      },
+      {
+        "category": "非RC屋頂作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "非RC屋頂作業"
+      },
+      {
+        "category": "搬運承攬",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": "一般"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 76",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "76",
+    "issues": 0,
+    "locations": [
+      "Location 8"
+    ],
+    "machineMoving": false,
+    "name": "施工單 76",
+    "phoneNumber": "89187",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 76",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "爆炸性"
+      },
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "位於5公尺以上有固定平台及護欄之處所"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "手動氬焊"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 26",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "26",
+    "issues": 0,
+    "locations": [
+      "Location 7",
+      "Location 1"
+    ],
+    "machineMoving": false,
+    "name": "施工單 26",
+    "phoneNumber": "61733",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 26",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "位於5公尺以上有固定平台及護欄之處所"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "樹脂槽"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "Busway 400A以上plug in unit拆裝(SQ-D)"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 77",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "77",
+    "issues": 0,
+    "locations": [
+      "Location 8",
+      "Location 6",
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 77",
+    "phoneNumber": "98558",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 77",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "管路冷凍工法作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "管路若採用低溫惰性物質(如LN2)"
+      },
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "塑膠熔焊"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "可燃性"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 78",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "78",
+    "issues": 0,
+    "locations": [
+      "Location 5",
+      "Location 6"
+    ],
+    "machineMoving": false,
+    "name": "施工單 78",
+    "phoneNumber": "48381",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 78",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "五公尺以上施工架組裝及拆卸",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "五公尺以上施工架組裝及拆卸"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 79",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "79",
+    "issues": 0,
+    "locations": [
+      "Location 7",
+      "Location 9"
+    ],
+    "machineMoving": false,
+    "name": "施工單 79",
+    "phoneNumber": "89282",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 79",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "電力電容器安裝"
+      },
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "合梯(7尺以上),/移動梯"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "移動式起重機"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 22",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "22",
+    "issues": 0,
+    "locations": [
+      "Location 1",
+      "Location 8",
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 22",
+    "phoneNumber": "63644",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 22",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "合梯(7尺以上),/移動梯"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 13",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "13",
+    "issues": 0,
+    "locations": [
+      "Location 4",
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 13",
+    "phoneNumber": "28551",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 13",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "砂輪切割"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 40",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "40",
+    "issues": 0,
+    "locations": [
+      "Location 3"
+    ],
+    "machineMoving": false,
+    "name": "施工單 40",
+    "phoneNumber": "14807",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 40",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "人字臂起重機"
+      },
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "接近高壓(3.3KV以上)電路或其支持物附近"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 80",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "80",
+    "issues": 0,
+    "locations": [
+      "Location 1",
+      "Location 8"
+    ],
+    "machineMoving": false,
+    "name": "施工單 80",
+    "phoneNumber": "51871",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 80",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "IR檢測"
+      },
+      {
+        "category": "無塵室天花板(含夾層、Truss),開口作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "無塵室天花板(含夾層、Truss),開口作業"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "水槽"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "高壓盤背板拆裝"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 14",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "14",
+    "issues": 0,
+    "locations": [
+      "Location 8"
+    ],
+    "machineMoving": false,
+    "name": "施工單 14",
+    "phoneNumber": "91958",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 14",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "UPS battery(100V以上)拆裝"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 81",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "81",
+    "issues": 0,
+    "locations": [
+      "Location 5",
+      "Location 9",
+      "Location 7"
+    ],
+    "machineMoving": false,
+    "name": "施工單 81",
+    "phoneNumber": "59727",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 81",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "接近600V以下低壓電路或其支持物附近且有觸電可能"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "爆炸性"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 30",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "30",
+    "issues": 0,
+    "locations": [
+      "Location 6",
+      "Location 8",
+      "Location 3"
+    ],
+    "machineMoving": false,
+    "name": "施工單 30",
+    "phoneNumber": "58327",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 30",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "機房CO2滅火系統檢修作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "機房CO2滅火系統檢修"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "Busway 400A以上plug in unit拆裝(SQ-D)"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 82",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "82",
+    "issues": 0,
+    "locations": [
+      "Location 7",
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 82",
+    "phoneNumber": "46878",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 82",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "接近600V以下低壓電路或其支持物附近且有觸電可能"
+      },
+      {
+        "category": "高溫作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": "高溫作業"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "噴燈"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "分盤MAIN NFB一/二次側活線併接"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 33",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "33",
+    "issues": 0,
+    "locations": [
+      "Location 7",
+      "Location 10"
+    ],
+    "machineMoving": false,
+    "name": "施工單 33",
+    "phoneNumber": "77843",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 33",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "ABC二次側至MCCB一次側併接"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "DC source battery(100V以上)拆裝"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 19",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "19",
+    "issues": 0,
+    "locations": [
+      "Location 10",
+      "Location 4"
+    ],
+    "machineMoving": false,
+    "name": "施工單 19",
+    "phoneNumber": "65646",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 19",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "固定式起重機"
+      },
+      {
+        "category": "機房CO2滅火系統檢修作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "機房CO2滅火系統檢修"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 29",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "29",
+    "issues": 0,
+    "locations": [
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 29",
+    "phoneNumber": "20834",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 29",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "UPS battery(100V以上)拆裝"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "化學品槽"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 46",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "46",
+    "issues": 0,
+    "locations": [
+      "Location 10"
+    ],
+    "machineMoving": false,
+    "name": "施工單 46",
+    "phoneNumber": "31468",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 46",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "自動氬焊"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 12",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "12",
+    "issues": 0,
+    "locations": [
+      "Location 2",
+      "Location 4"
+    ],
+    "machineMoving": false,
+    "name": "施工單 12",
+    "phoneNumber": "46734",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 12",
     "startTime": "Aug 1, 2020 12:00:00 AM",
     "state": 0,
     "tracked": false,
@@ -499,13 +2553,7 @@
         "category": "活線、活線接近作業",
         "isEssential": false,
         "isHighRisk": true,
-        "type": "DC bank battery(100V以上)拆裝"
-      },
-      {
-        "category": "非明火動火作業",
-        "isEssential": false,
-        "isHighRisk": true,
-        "type": "塑膠熔焊"
+        "type": "IR檢測"
       },
       {
         "category": "一般作業",
@@ -516,6 +2564,2090 @@
     ],
     "vendor": "常宇",
     "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 83",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "83",
+    "issues": 0,
+    "locations": [
+      "Location 7"
+    ],
+    "machineMoving": false,
+    "name": "施工單 83",
+    "phoneNumber": "73996",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 83",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "高壓電壓器局部放電檢測"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "簡易式起重機(如吊猴、小金剛)"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 84",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "84",
+    "issues": 0,
+    "locations": [
+      "Location 9",
+      "Location 1"
+    ],
+    "machineMoving": false,
+    "name": "施工單 84",
+    "phoneNumber": "72169",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 84",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "油槽"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "電焊"
+      },
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "接近高壓(3.3KV以上)電路或其支持物附近"
+      },
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "熱風槍"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 35",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "35",
+    "issues": 0,
+    "locations": [
+      "Location 8",
+      "Location 6"
+    ],
+    "machineMoving": false,
+    "name": "施工單 35",
+    "phoneNumber": "36931",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 35",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "IR檢測"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 85",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "85",
+    "issues": 0,
+    "locations": [
+      "Location 9"
+    ],
+    "machineMoving": false,
+    "name": "施工單 85",
+    "phoneNumber": "33434",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 85",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "油槽"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "樹脂槽"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "噴燈"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 86",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "86",
+    "issues": 0,
+    "locations": [
+      "Location 10"
+    ],
+    "machineMoving": false,
+    "name": "施工單 86",
+    "phoneNumber": "85911",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 86",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "合梯(7尺以上),/移動梯"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 39",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "39",
+    "issues": 0,
+    "locations": [
+      "Location 8",
+      "Location 4",
+      "Location 9"
+    ],
+    "machineMoving": false,
+    "name": "施工單 39",
+    "phoneNumber": "25785",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 39",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "爆炸性"
+      },
+      {
+        "category": "高溫作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": "高溫作業"
+      },
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "開人孔蓋"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 87",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "87",
+    "issues": 0,
+    "locations": [
+      "Location 4",
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 87",
+    "phoneNumber": "12160",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 87",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "分盤MAIN NFB一/二次側活線併接"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "DC source battery(100V以上)拆裝"
+      },
+      {
+        "category": "機房CO2滅火系統檢修作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "機房CO2滅火系統檢修"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "氣體槽"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 38",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "38",
+    "issues": 0,
+    "locations": [
+      "Location 8",
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 38",
+    "phoneNumber": "34706",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 38",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "合梯(7尺以上),/移動梯"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "砂輪切割"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 32",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "32",
+    "issues": 0,
+    "locations": [
+      "Location 2",
+      "Location 4"
+    ],
+    "machineMoving": false,
+    "name": "施工單 32",
+    "phoneNumber": "14775",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 32",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "活性碳槽"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "噴燈"
+      },
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "接近高壓(3.3KV以上)電路或其支持物附近"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 20",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "20",
+    "issues": 0,
+    "locations": [
+      "Location 1"
+    ],
+    "machineMoving": false,
+    "name": "施工單 20",
+    "phoneNumber": "73126",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 20",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "電力電容器安裝"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 37",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "37",
+    "issues": 0,
+    "locations": [
+      "Location 8",
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 37",
+    "phoneNumber": "59157",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 37",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "接近高壓(3.3KV以上)電路或其支持物附近"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "筏基"
+      },
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "ABC二次側至MCCB一次側併接"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "管溝"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 89",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "89",
+    "issues": 0,
+    "locations": [
+      "Location 8"
+    ],
+    "machineMoving": false,
+    "name": "施工單 89",
+    "phoneNumber": "94643",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 89",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "接近600V以下低壓電路或其支持物附近且有觸電可能"
+      },
+      {
+        "category": "高空工作車",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "高空工作車"
+      },
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "合梯(7尺以上),/移動梯"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 21",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "21",
+    "issues": 0,
+    "locations": [
+      "Location 3",
+      "Location 2",
+      "Location 8"
+    ],
+    "machineMoving": false,
+    "name": "施工單 21",
+    "phoneNumber": "66497",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 21",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "升降機"
+      },
+      {
+        "category": "無塵室天花板(含夾層、Truss),開口作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "無塵室天花板(含夾層、Truss),開口作業"
+      },
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "ABC二次側至MCCB一次側併接"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 88",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "88",
+    "issues": 0,
+    "locations": [
+      "Location 4",
+      "Location 1"
+    ],
+    "machineMoving": false,
+    "name": "施工單 88",
+    "phoneNumber": "52321",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 88",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "乙炔切焊"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 10",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "10",
+    "issues": 0,
+    "locations": [
+      "Location 2",
+      "Location 7"
+    ],
+    "machineMoving": false,
+    "name": "施工單 10",
+    "phoneNumber": "45866",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 10",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "簡易升降機"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 44",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "44",
+    "issues": 0,
+    "locations": [
+      "Location 6"
+    ],
+    "machineMoving": false,
+    "name": "施工單 44",
+    "phoneNumber": "12099",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 44",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "毒性"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "DC source battery(100V以上)拆裝"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 23",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "23",
+    "issues": 0,
+    "locations": [
+      "Location 5",
+      "Location 3"
+    ],
+    "machineMoving": false,
+    "name": "施工單 23",
+    "phoneNumber": "63818",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 23",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高溫作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": "高溫作業"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 25",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "25",
+    "issues": 0,
+    "locations": [
+      "Location 10",
+      "Location 6"
+    ],
+    "machineMoving": false,
+    "name": "施工單 25",
+    "phoneNumber": "64979",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 25",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高度風險活線、活線接近作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "接近高壓(3.3KV以上)電路或其支持物附近"
+      },
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "外牆清洗"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 45",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "45",
+    "issues": 0,
+    "locations": [
+      "Location 9",
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 45",
+    "phoneNumber": "39481",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 45",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "電焊"
+      },
+      {
+        "category": "機房CO2滅火系統檢修作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "機房CO2滅火系統檢修"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "移動式起重機"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 18",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "18",
+    "issues": 0,
+    "locations": [
+      "Location 1"
+    ],
+    "machineMoving": false,
+    "name": "施工單 18",
+    "phoneNumber": "37194",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 18",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "分盤MAIN NFB一/二次側活線併接"
+      },
+      {
+        "category": "管路冷凍工法作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "管路若採用低溫惰性物質(如LN2)"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 48",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "48",
+    "issues": 0,
+    "locations": [
+      "Location 3",
+      "Location 7"
+    ],
+    "machineMoving": false,
+    "name": "施工單 48",
+    "phoneNumber": "24969",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 48",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架地板掀開暨開口作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "地面人孔蓋掀開"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "簡易式起重機(如吊猴、小金剛)"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 90",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "90",
+    "issues": 0,
+    "locations": [
+      "Location 3"
+    ],
+    "machineMoving": false,
+    "name": "施工單 90",
+    "phoneNumber": "57419",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 90",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "水槽"
+      },
+      {
+        "category": "高架地板掀開暨開口作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "高架地板掀開"
+      },
+      {
+        "category": "機房CO2滅火系統檢修作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "機房CO2滅火系統檢修"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "捲揚機"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 50",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "50",
+    "issues": 0,
+    "locations": [
+      "Location 4"
+    ],
+    "machineMoving": false,
+    "name": "施工單 50",
+    "phoneNumber": "83775",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 50",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架地板掀開暨開口作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "地面人孔蓋掀開"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "簡易升降機"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "電力電容器安裝"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 91",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "91",
+    "issues": 0,
+    "locations": [
+      "Location 7",
+      "Location 10"
+    ],
+    "machineMoving": false,
+    "name": "施工單 91",
+    "phoneNumber": "80783",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 91",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "管溝"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "可燃性"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 55",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "55",
+    "issues": 0,
+    "locations": [
+      "Location 6"
+    ],
+    "machineMoving": false,
+    "name": "施工單 55",
+    "phoneNumber": "19013",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 55",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "外牆清洗"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "移動式起重機"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 92",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": true,
+    "frozen": false,
+    "histories": [],
+    "id": "92",
+    "issues": 0,
+    "locations": [
+      "Location 9"
+    ],
+    "machineMoving": false,
+    "name": "施工單 92",
+    "phoneNumber": "53776",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 92",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "樹脂槽"
+      },
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "點焊(自動氬焊前管路固定),"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "砂輪切割"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "毒性"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 47",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "47",
+    "issues": 0,
+    "locations": [
+      "Location 7",
+      "Location 5",
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 47",
+    "phoneNumber": "21660",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 47",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "位於2公尺以上無固定平台及護欄之處所"
+      },
+      {
+        "category": "搬運承攬",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": "一般"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "手動氬焊"
+      },
+      {
+        "category": "無塵室天花板(含夾層、Truss),開口作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "無塵室天花板(含夾層、Truss),開口作業"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 93",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "93",
+    "issues": 0,
+    "locations": [
+      "Location 8",
+      "Location 2",
+      "Location 10"
+    ],
+    "machineMoving": false,
+    "name": "施工單 93",
+    "phoneNumber": "43003",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 93",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "水槽"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "IR檢測"
+      },
+      {
+        "category": "非RC屋頂作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "非RC屋頂作業"
+      },
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "熱風槍"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 94",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "94",
+    "issues": 0,
+    "locations": [
+      "Location 3"
+    ],
+    "machineMoving": false,
+    "name": "施工單 94",
+    "phoneNumber": "34815",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 94",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "位於5公尺以上有固定平台及護欄之處所"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 52",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "52",
+    "issues": 0,
+    "locations": [
+      "Location 1"
+    ],
+    "machineMoving": false,
+    "name": "施工單 52",
+    "phoneNumber": "67358",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 52",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "無塵室天花板(含夾層、Truss),開口作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "無塵室天花板(含夾層、Truss),開口作業"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 96",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "96",
+    "issues": 0,
+    "locations": [
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 96",
+    "phoneNumber": "12448",
+    "resume": 0,
+    "risk": 0,
+    "site": "Site 96",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "管溝"
+      },
+      {
+        "category": "管路冷凍工法作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "管路若採用低溫惰性物質(如LN2)"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "管溝"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 51",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "51",
+    "issues": 0,
+    "locations": [
+      "Location 10",
+      "Location 9",
+      "Location 8"
+    ],
+    "machineMoving": false,
+    "name": "施工單 51",
+    "phoneNumber": "92888",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 51",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "升降機"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 95",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "95",
+    "issues": 0,
+    "locations": [
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 95",
+    "phoneNumber": "15348",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 95",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "腐蝕性"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "樹脂槽"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "可燃性"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "電焊"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 97",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "97",
+    "issues": 0,
+    "locations": [
+      "Location 2",
+      "Location 7"
+    ],
+    "machineMoving": false,
+    "name": "施工單 97",
+    "phoneNumber": "12006",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 97",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "手動氬焊"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "爆炸性"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "乙炔切焊"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "簡易式起重機(如吊猴、小金剛)"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 98",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "98",
+    "issues": 0,
+    "locations": [
+      "Location 10",
+      "Location 2",
+      "Location 3"
+    ],
+    "machineMoving": false,
+    "name": "施工單 98",
+    "phoneNumber": "85164",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 98",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "捲揚機"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "風管"
+      },
+      {
+        "category": "機房CO2滅火系統檢修作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "機房CO2滅火系統檢修"
+      },
+      {
+        "category": "非RC屋頂作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "非RC屋頂作業"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 63",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "63",
+    "issues": 0,
+    "locations": [
+      "Location 10",
+      "Location 5"
+    ],
+    "machineMoving": false,
+    "name": "施工單 63",
+    "phoneNumber": "50116",
+    "resume": 0,
+    "risk": 1,
+    "site": "Site 63",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "人字臂起重機"
+      },
+      {
+        "category": "危險管路拆卸鑽孔作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "腐蝕性"
+      },
+      {
+        "category": "高架作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "位於2公尺以上無固定平台及護欄之處所"
+      },
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "捲揚機"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "李OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 99",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "99",
+    "issues": 0,
+    "locations": [
+      "Location 2"
+    ],
+    "machineMoving": false,
+    "name": "施工單 99",
+    "phoneNumber": "42910",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 99",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "吊掛作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "捲揚機"
+      },
+      {
+        "category": "無塵室天花板(含夾層、Truss),開口作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "無塵室天花板(含夾層、Truss),開口作業"
+      },
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "分盤MAIN NFB一/二次側活線併接"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 62",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "62",
+    "issues": 0,
+    "locations": [
+      "Location 9",
+      "Location 7"
+    ],
+    "machineMoving": false,
+    "name": "施工單 62",
+    "phoneNumber": "23536",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 62",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "活線、活線接近作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "分盤MAIN NFB一/二次側活線併接"
+      },
+      {
+        "category": "明火/防爆區動火作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "乙炔切焊"
+      },
+      {
+        "category": "五公尺以上施工架組裝及拆卸",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "五公尺以上施工架組裝及拆卸"
+      },
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "風管"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "常宇",
+    "vendorManager": "James Bon"
+  },
+  {
+    "applicant": "王OO",
+    "attachImages": [],
+    "changed": false,
+    "currentLocations": [],
+    "currentTypes": [],
+    "date": "Nov 25, 2020 12:00:00 AM",
+    "department": "Dept 53",
+    "endTime": "Oct 31, 2020 12:00:00 AM",
+    "fireDetected": false,
+    "frozen": false,
+    "histories": [],
+    "id": "53",
+    "issues": 0,
+    "locations": [
+      "Location 4"
+    ],
+    "machineMoving": false,
+    "name": "施工單 53",
+    "phoneNumber": "40679",
+    "resume": 0,
+    "risk": 2,
+    "site": "Site 53",
+    "startTime": "Aug 1, 2020 12:00:00 AM",
+    "state": 0,
+    "tracked": false,
+    "types": [
+      {
+        "category": "局限空間作業",
+        "isEssential": true,
+        "isHighRisk": true,
+        "type": "活性碳槽"
+      },
+      {
+        "category": "非明火動火作業",
+        "isEssential": false,
+        "isHighRisk": true,
+        "type": "點焊(自動氬焊前管路固定),"
+      },
+      {
+        "category": "一般作業",
+        "isEssential": false,
+        "isHighRisk": false,
+        "type": ""
+      }
+    ],
+    "vendor": "昇揚",
+    "vendorManager": "James Bon"
   }
 ]
+
 }
